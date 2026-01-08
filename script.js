@@ -23,7 +23,7 @@ imageSequence({
   //clear: true, // only necessary if your images contain transparency
   //onUpdate: (index, image) => console.log("drew image index", index, ", image:", image),
   scrollTrigger: {
-    start: 0,   // start at the very top
+    start: 2,   // start at the very top
     end: "max", // entire page
     scrub: true, // important!
   }
