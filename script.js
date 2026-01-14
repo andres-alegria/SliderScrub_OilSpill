@@ -2,19 +2,19 @@
 
 let frameCount = 13,
     urls = [
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145253/2026_001_AA_OilSpill_v3-01.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145354/2026_001_AA_OilSpill_v3-02.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145348/2026_001_AA_OilSpill_v3-03.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145342/2026_001_AA_OilSpill_v3-04.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145337/2026_001_AA_OilSpill_v3-05.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145332/2026_001_AA_OilSpill_v3-06.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145326/2026_001_AA_OilSpill_v3-07.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145321/2026_001_AA_OilSpill_v3-08.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145315/2026_001_AA_OilSpill_v3-09.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145310/2026_001_AA_OilSpill_v3-10.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08151323/2026_001_AA_OilSpill_v3_11.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145304/2026_001_AA_OilSpill_v3-12.jpg",
-  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/08145258/2026_001_AA_OilSpill_v3-13.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163725/2026_001_AA_OilSpill_v4_1-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163731/2026_001_AA_OilSpill_v4_2-scaled.jpg",
+  "hhttps://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163738/2026_001_AA_OilSpill_v4_3-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163745/2026_001_AA_OilSpill_v4_4-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163751/2026_001_AA_OilSpill_v4_5-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163758/2026_001_AA_OilSpill_v4_6-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163805/2026_001_AA_OilSpill_v4_7-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163812/2026_001_AA_OilSpill_v4_8-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163817/2026_001_AA_OilSpill_v4_9-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163823/2026_001_AA_OilSpill_v4_10-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163830/2026_001_AA_OilSpill_v4_11-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163836/2026_001_AA_OilSpill_v4_12-scaled.jpg",
+  "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/14163843/2026_001_AA_OilSpill_v4-13-scaled.jpg",
 ];
 
 imageSequence({
